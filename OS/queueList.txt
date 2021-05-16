@@ -1,0 +1,21 @@
+https://lms.nust.edu.pk#myCarousel
+https://lms.nust.edu.pk#quote-carousel
+https://lms.nust.edu.pk/index.php
+https://lms.nust.edu.pk/lms_website/index.php
+https://lms.nust.edu.pk/lms_website/lms_about_us.php
+https://lms.nust.edu.pk/lms_website/lms_archive.php
+https://lms.nust.edu.pk/lms_website/lms_disclaimer.php
+https://lms.nust.edu.pk/lms_website/lms_github.php
+https://lms.nust.edu.pk/lms_website/lms_statistics.php
+https://lms.nust.edu.pk/lms_website/lms_support.php
+https://lms.nust.edu.pk/lms_website/lms_team.php
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=11
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=12
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=13
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=14
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=15
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=16
+https://lms.nust.edu.pk/lms_website/lms_testimonial_detail.php?testimonials_id=17
+https://lms.nust.edu.pk/lms_website/lms_training.php
+https://lms.nust.edu.pk/portal/
+mailto: lms@seecs.edu.pk
